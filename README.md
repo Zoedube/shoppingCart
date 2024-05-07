@@ -1,1 +1,1 @@
-# shoppingCart
+this is my shopping cart that i designed, it includes a header, about us section, product section and a contact us section with a footer. I used bootstrap components, CSS and Javascript and UI/UX design elements for the header# shoppingCart
